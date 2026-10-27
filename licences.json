@@ -10,7 +10,17 @@
       "actif": true,
       "appareils": [],
       "creeLe": "2026-10-26"
+    },
+    {
+      "hash": "55816762be067ff46b99c576ae136b4975f202b091c47a8b0c2b6d37327ee11f",
+      "entreprise": "Licence de test",
+      "expire": "2026-11-27",
+      "plan": "complet",
+      "modules": [],
+      "actif": true,
+      "appareils": [],
+      "creeLe": "2026-10-27"
     }
   ],
-  "misAJour": "2026-10-26"
+  "misAJour": "2026-10-27"
 }
